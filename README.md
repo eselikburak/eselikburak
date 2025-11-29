@@ -5,15 +5,11 @@
 
 - 🔭 I’m currently working on **a vue + django rest "quiz" project.**
 
-- 🌱 I’m currently learning **vue3, django rest framework.**
+- 🌱 I’m currently learning django rest framework.**
 
-- 👨‍💻 All of my projects are available at [eburak.me](eburak.me)
-
-- 💬 Ask me about **python, django, vue3**
+- 💬 Ask me about **python, django,
 
 - 📫 How to reach me **eselik.burak@gmail.com**
-
-- 📄 Know about my experiences [eburak.me](eburak.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
